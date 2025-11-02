@@ -1,0 +1,62 @@
+
+  {
+    "name": "Aarav Sharma",
+    "image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "age": 24,
+    "desc": "A software engineer who loves exploring new tech and solving real-world problems."
+  },
+  {
+    "name": "Diya Mehta",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg",
+    "age": 22,
+    "desc": "A creative UI/UX designer passionate about modern minimalistic design."
+  },
+  {
+    "name": "Rohan Verma",
+    "image": "https://randomuser.me/api/portraits/men/31.jpg",
+    "age": 27,
+    "desc": "A fitness enthusiast and backend developer who enjoys learning system design."
+  },
+  {
+    "name": "Sanya Kapoor",
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "age": 23,
+    "desc": "A front-end developer focused on animation and seamless user experience."
+  },
+  {
+    "name": "Ishaan Gupta",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "age": 29,
+    "desc": "A data analyst who loves crunching numbers and building data dashboards."
+  },
+  {
+    "name": "Riya Malhotra",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "age": 26,
+    "desc": "A digital marketer with a passion for storytelling and brand identity."
+  },
+  {
+    "name": "Karan Singh",
+    "image": "https://randomuser.me/api/portraits/men/55.jpg",
+    "age": 28,
+    "desc": "A DevOps engineer who enjoys cloud automation and infrastructure scaling."
+  },
+  {
+    "name": "Mira Desai",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg",
+    "age": 21,
+    "desc": "A student exploring AI and machine learning with a passion for research."
+  },
+  {
+    "name": "Arjun Patel",
+    "image": "https://randomuser.me/api/portraits/men/72.jpg",
+    "age": 30,
+    "desc": "A product manager focused on user-centered product building and strategy."
+  },
+  {
+    "name": "Neha Joshi",
+    "image": "https://randomuser.me/api/portraits/women/47.jpg",
+    "age": 24,
+    "desc": "A content creator who loves tech blogging, travel vlogging, and storytelling."
+  }
+
